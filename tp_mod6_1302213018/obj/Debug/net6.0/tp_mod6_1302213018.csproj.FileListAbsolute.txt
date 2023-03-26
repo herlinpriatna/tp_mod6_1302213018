@@ -1,0 +1,15 @@
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\bin\Debug\net6.0\tp_mod6_1302213018.exe
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\bin\Debug\net6.0\tp_mod6_1302213018.deps.json
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\bin\Debug\net6.0\tp_mod6_1302213018.runtimeconfig.json
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\bin\Debug\net6.0\tp_mod6_1302213018.dll
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\bin\Debug\net6.0\tp_mod6_1302213018.pdb
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\tp_mod6_1302213018.csproj.AssemblyReference.cache
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\tp_mod6_1302213018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\tp_mod6_1302213018.AssemblyInfoInputs.cache
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\tp_mod6_1302213018.AssemblyInfo.cs
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\tp_mod6_1302213018.csproj.CoreCompileInputs.cache
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\tp_mod6_1302213018.dll
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\refint\tp_mod6_1302213018.dll
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\tp_mod6_1302213018.pdb
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\tp_mod6_1302213018.genruntimeconfig.cache
+C:\Users\ACER\praktikum_kpl\mod_6\tp_mod6_1302213018\tp_mod6_1302213018\obj\Debug\net6.0\ref\tp_mod6_1302213018.dll
